@@ -1,8 +1,7 @@
-<img src="images/banner.png"></img>
-<table align="right">
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
-</table>
-<br>
+<img src="images/banner profile.png"></img>
+<p align="right">
+<a href="README_pt.md"><img src="images/br-flag.png" height="12"> Português</a>
+</p>
 <h2>  ABOUT ME </h2>
 <br>
 <p>
@@ -14,6 +13,7 @@
 
 :female_sign:    Pronouns:  She/Her
 </p>
+<br>
 <h2>  CONTACT </h2>
 <br>
 

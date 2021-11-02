@@ -6,7 +6,7 @@
 <h2 align="center">  ABOUT ME </h2>
 <br>
 <p>
-:woman_student:    A Brazilian with a degree in Physiotherapy and now transitioning to Technology by pursuing a degree in Software Development at [FIAP](https://www.fiap.com.br/). 
+:woman_student:    A Brazilian with a degree in Physiotherapy and now transitioning to Technology by pursuing a degree in Software Development. 
  
 :open_book:    Currently learning Python, SQL, HTML5, CSS3 and PHP
  

@@ -1,4 +1,4 @@
-<img src="images/banner profile.png"></img>
+<img src="images/banner_profile.png"></img>
 <p align="right">
 <a href="README_pt.md"><img src="images/br-flag.png" height="12"> Português</a>
 </p>

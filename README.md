@@ -15,4 +15,7 @@
 :female_sign:    Pronouns:  She/Her
 </p>  
 
+<h2 align="center">  CONTACT </h2>
+<br>
+
 

@@ -1,6 +1,6 @@
 <img src="images/banner_profile.png"></img>
 <p align="right">
-<a href="README_pt.md"><img src="images/br-flag.png" height="12"> Português</a>
+<a href="README.md"><img src="images/us-flag.png" height="12"> English</a>
 </p>
 <h2>  SOBRE </h2>
 <br>

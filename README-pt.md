@@ -14,7 +14,7 @@
 :female_sign:    Pronomes:  Ela/Dela
 </p>
 <br>
-<h2>  CONTAT0 </h2>
+<h2>  CONTATO </h2>
 <br>
 <p>
  <a href="https://www.linkedin.com/in/ellen-gomes-software-developer/"><img src="https://img.shields.io/badge/-LinkedIn-DBC2E0?style=flat&logo=Linkedin&logoColor=FFFFFF"/></a>

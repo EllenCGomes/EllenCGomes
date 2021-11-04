@@ -9,7 +9,7 @@
  
 :open_book:    Currently learning Python, SQL, HTML5, CSS3 and PHP.
  
-:heartpulse:    Passionate about Science and Innovation.
+:heartpulse:    Passionate about Science, Design and Innovation.
 
 :female_sign:    Pronouns:  She/Her
 </p>

@@ -9,7 +9,7 @@
  
 :open_book:    Aprendendo Python, SQL, HTML5, CSS3 e PHP.
  
-:heartpulse:    Apaixonada por Ciência e Inovação.
+:heartpulse:    Apaixonada por Ciência, Design e Inovação.
 
 :female_sign:    Pronomes:  Ela/Dela
 </p>

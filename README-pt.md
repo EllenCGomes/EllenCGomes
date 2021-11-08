@@ -24,7 +24,7 @@
 <h2>  ESTATISTICAS DO GIT </h2>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EllenCGomes&hide_title=True&hide_border=True&show_icons=True&icon_color=62D3D0&text_color=BB7DC1&theme=material-palenight&bg_color=FFFFFF)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EllenCGomes&hide_title=True&hide_border=True&show_icons=True&icon_color=62D3D0&text_color=BB7DC1&theme=material-palenight&bg_color=FFFFFF&hide=total,stars,earned)
 <br>
 <h2>  LINGUAGENS MAIS USADAS </h2>
 <br>

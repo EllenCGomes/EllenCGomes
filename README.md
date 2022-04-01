@@ -25,13 +25,15 @@
 <h2>  MY TOP LANGUAGES </h2>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EllenCGomes&layout=compact&hide_title=True&hide_border=True)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EllenCGomes&hide_title=True&hide_border=True)
 
 <br>
 <h2>  STATS </h2>
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EllenCGomes&hide_title=True&hide_border=True&show_icons=True&icon_color=62D3D0&text_color=BB7DC1&theme=material-palenight&bg_color=FFFFFF&hide=total,stars,earned)
+
+
 
 
 

@@ -7,7 +7,7 @@
 <p>
 :woman_student:    Migrando da Fisioterapia para a Tecnologia. Atualmente cursando Análise e Desenvolvimento de Sistemas. 
  
-:open_book:    Aprendendo Python, SQL, HTML5, CSS3 e PHP.
+:open_book:    Aprendendo Python, JavaScript, HTML5, CSS3, PHP e Java.
  
 :heartpulse:    Apaixonada por Ciência, Design e Inovação.
 

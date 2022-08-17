@@ -7,7 +7,7 @@
 <p>
 :woman_student:    A Brazilian with a degree in Physiotherapy and now transitioning to Technology by pursuing a degree in Software Development. 
  
-:open_book:    Currently learning Python, JavaScript, HTML5, CSS3, PHP and Java.
+:open_book:    Currently learning Python, JavaScript, HTML5, CSS3 and Java.
  
 :heartpulse:    Passionate about Science, Design and Innovation.
 

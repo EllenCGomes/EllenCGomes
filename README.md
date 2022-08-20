@@ -5,9 +5,9 @@
 <h2>  ABOUT ME </h2>
 <br>
 <p>
-:woman_student:    A Brazilian with a degree in Physiotherapy and now transitioning to Technology by pursuing a degree in Software Development. 
+:woman_student:    A research fanatic, analytical creative and passionately curious Brazilian, transitioning to Technology and looking to leverage her core strengths into an internship role in areas such as A.I, Automation, Front-end development, IoT, Robotics and UI Design
  
-:open_book:    Currently learning Python, JavaScript, HTML5, CSS3 and Java.
+:open_book:    Currently learning Python, Java, JavaScript and React Native.
  
 :heartpulse:    Passionate about Science, Design and Innovation.
 

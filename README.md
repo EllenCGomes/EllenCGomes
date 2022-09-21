@@ -7,7 +7,7 @@
 <p>
 :woman_student:    A research fanatic, analytical creative and passionately curious Brazilian, transitioning to Technology and looking to leverage her core strengths into an internship role in areas such as A.I, Automation, Front-end development, IoT, Robotics and UI Design
  
-:open_book:    Currently learning Python, Java, JavaScript and React Native.
+:open_book:    Currently learning Java, JavaScript and React Native.
  
 :heartpulse:    Passionate about Science, Design and Innovation.
 

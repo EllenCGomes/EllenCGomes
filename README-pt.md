@@ -25,7 +25,7 @@
 <h2>  LINGUAGENS MAIS USADAS </h2>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EllenCGomes&hide_title=True&hide_border=True)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EllenCGomes&hide_title=True&hide_border=True&layout=compact)
 
 <br>
 <h2>  ESTATISTICAS DO GIT </h2>

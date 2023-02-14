@@ -1,13 +1,11 @@
 <!-- <img src="images/banner_profile.png"></img> -->
-<p align="right">
-<a href="README-pt.md"><img src="images/br-flag.png" height="20" align="center"> Português</a>
-</p>
+
 <h2>  ABOUT ME </h2>
 <br>
 <p>
 A research fanatic, analytical creative and passionately curious Brazilian, transitioning to Technology and interested in System Architecture, Front-end development, A.I, IoT and Automation.
  
-:open_book:    Currently learning JavaScript, React and System architecture and passionate about Science, Design and Innovation.
+:open_book:    Currently learning JavaScript, React and System architecture, and passionate about Science, Design and Innovation.
 
 :female_sign:    Pronouns:  She/Her
 </p>

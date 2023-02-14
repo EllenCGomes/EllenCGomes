@@ -3,7 +3,7 @@
 <h2>  ABOUT ME </h2>
 <br>
 <p>
-A research fanatic, analytical creative and passionately curious Brazilian, transitioning to Technology and interested in System Architecture, Front-end development, A.I, IoT and Automation.
+A research fanatic, analytical creative and passionately curious Brazilian, transitioning to Technology and interested in Front-end development, A.I, IoT and Automation.
  
 :open_book:    Currently learning **JavaScript**, **React** and **System architecture**, and passionate about Science, Design and Innovation.
 

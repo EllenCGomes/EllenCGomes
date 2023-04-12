@@ -3,7 +3,8 @@
 <h2>  ABOUT ME </h2>
 <br>
 <p>
-A research fanatic, analytical creative and passionately curious Brazilian, transitioning to Technology and interested in Front-end development, A.I, IoT and Automation.
+Hi there! 👋
+I'm Ellen, a research fanatic, analytical creative and passionately curious Brazilian and this is my journey from physical therapy to software development
  
 :open_book:    Currently learning **JavaScript**, **React**, **Node** and **System architecture**, and passionate about Science, Design and Innovation.
 

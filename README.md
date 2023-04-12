@@ -5,7 +5,7 @@
 <p>
 A research fanatic, analytical creative and passionately curious Brazilian, transitioning to Technology and interested in Front-end development, A.I, IoT and Automation.
  
-:open_book:    Currently learning **JavaScript**, **React** and **System architecture**, and passionate about Science, Design and Innovation.
+:open_book:    Currently learning **JavaScript**, **React**, **Node** and **System architecture**, and passionate about Science, Design and Innovation.
 
 :female_sign:    Pronouns:  She/Her
 </p>
